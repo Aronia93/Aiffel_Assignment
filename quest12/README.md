@@ -1,6 +1,6 @@
 ## Code Peer Review Template
 ---
-* 코더 : 김창환
+* 코더 : 김창완
 * 리뷰어 : 정연준 
 
 
